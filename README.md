@@ -4,8 +4,8 @@ Discover our commitment to nurturing a love for indoor sports and building a sup
 # Project Details
 1. Project Demo URL: https://electrostorage2.z13.web.core.windows.net/
 2. Demo Video URL: https://youtu.be/8ErNjxboKGo
-3. GitHub Repository URL: https://github.com/manojbachu/electro.git
-4. Industry :Sports
+3. GitHub Repository URL: https://github.com/kbjtushar/victory-vault
+4. Industry: Sports
 # Roles and responsibilities
 >Tushar Ray (project management) :Manages the web development project.
 >Shreya Chittimalla (Deployment) :Deployment and maintenance of project infrastructure.
