@@ -5,11 +5,12 @@ Discover our commitment to nurturing a love for indoor sports and building a sup
 1. Project Demo URL: https://electrostorage2.z13.web.core.windows.net/
 2. Demo Video URL: https://youtu.be/8ErNjxboKGo
 3. GitHub Repository URL: https://github.com/manojbachu/electro.git
-4. Industry : E-commerce
+4. Industry :Sports
 # Roles and responsibilities
-1.Manoj Bachu (project management) :Manages the web development project.
-2.Vatsavayi T Subrahmanya Varma (Deployment) :Deployment and maintenance of project infrastructure.
-3.Gaddikoppula Sandeep Naidu (Documentation) :Responsible for managing the documentation process.
+>Tushar Ray (project management) :Manages the web development project.
+>Shreya Chittimalla (Deployment) :Deployment and maintenance of project infrastructure.
+>Anupama Kunnil (Images, logos and chat bot questions) :Responsible for image searching, logo creation and chat bot questions
+>Nikhil (Documentation) :Responsible for managing the documentation process.
 # Azure services used:
 1. Azure blob storage
 2. Storage account
