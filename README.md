@@ -26,15 +26,6 @@ The project aims to address a significant problem in Indoor regarding the limite
 Victory Vault Indoor Sports Academy is a facility designed for training and developing athletes in various sports within an enclosed environment. It provides coaching, practice facilities, and equipments for sports like basketball, fencing, swimming and more. The academy aims to enhance skills, fitness and teamwork in a controlled and weather-independent setting.
 The core idea of an indoor sports academy revolves around addressing a key problem statement or opportunity area in the community.
 We aim to fill the gap in the community and provide a solution to this problem. Our academy will offer expert coaching and comprehensive training programs for a variety of indoor sports catering to athletes of all ages, backgrounds and skill levels.
-In academy, the core problem being addressed is the lack of accessibility and high quality training for athletes of all ages and skill levels in the community. 
- This problem manifest in several ways:
-1. Limited access to proper facilities
-2. Lack of expert coaching
-3. Inadequate training programs
- To solve these challenges the indoor sports academy offers a comprehensive solution:
-1. State-of-the-art facilities
-2. Expert coaching
-3. Comprehensive training programs
 The indoor sports academy addresses a clear and pressing need within the community the lack of accessible and high-quality training for indoor sports. This problem is evident in the limited availability of proper facilities, the scarcity of the expert coaching and the absence of comprehensive training programs tailored to athlete’s needs.
 The indoor sports academy’s basic purpose and functionality are directly mapped to the problem statement or the opportunity area it aims to address. The core purpose of the academy is to provide accessible and high-quality training facilities for athletes, which aligns with the identified problem statement or opportunity area of the lack of such facilities in the community.
 # Core Azure Services:
