@@ -26,11 +26,12 @@ The project aims to address a significant problem in Indoor regarding the limite
 Victory Vault Indoor Sports Academy is a facility designed for training and developing athletes in various sports within an enclosed environment. It provides coaching, practice facilities, and equipments for sports like basketball, fencing, swimming and more. The academy aims to enhance skills, fitness and teamwork in a controlled and weather-independent setting.
 The core idea of an indoor sports academy revolves around addressing a key problem statement or opportunity area in the community.
 We aim to fill the gap in the community and provide a solution to this problem. Our academy will offer expert coaching and comprehensive training programs for a variety of indoor sports catering to athletes of all ages, backgrounds and skill levels.
-In academy, the core problem being addressed is the lack of accessibility and high quality training for athletes of all ages and skill levels in the community. This problem manifest in several ways:
+In academy, the core problem being addressed is the lack of accessibility and high quality training for athletes of all ages and skill levels in the community. 
+ This problem manifest in several ways:
 1. Limited access to proper facilities
 2. Lack of expert coaching
 3. Inadequate training programs
-To solve these challenges the indoor sports academy offers a comprehensive solution:
+ To solve these challenges the indoor sports academy offers a comprehensive solution:
 1. State-of-the-art facilities
 2. Expert coaching
 3. Comprehensive training programs
