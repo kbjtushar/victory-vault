@@ -46,7 +46,7 @@
         return i;
     }
 
-    // fadeIn and fadeOut functions from https://only-to-top.ru/blog/coding/2019-09-24-jquery-to-js.html
+    
     function fadeOut(el) {
         (function fade() {
             if ((el.style.opacity -= .1) < 0) {
@@ -68,7 +68,7 @@
         })();
     };
 
-    // get parents function from https://gist.github.com/ziggi/2f15832b57398649ee9b
+    
     Element.prototype.parents = function(selector) {
         var elements = [];
         var elem = this;
@@ -118,8 +118,7 @@
 
 
     (function (sr) {
-        // debouncing function from John Hann
-        // http://unscriptable.com/index.php/2009/03/20/debouncing-javascript-methods/
+        
         var debounce = function (func, threshold, execAsap) {
             var timeout;
 
@@ -208,9 +207,7 @@
     ready(function () {
         document.querySelector('html').classList.add(isMobile() ? 'mobile' : 'desktop');
 
-        // .mbr-navbar--sticky
-
-        // needs some check
+        
         window.addEventListener('scroll', function() {
             document.querySelectorAll('.mbr-navbar--sticky').forEach(function(el) {
                 var method = window.scrollTop > 10 ? 'add' : 'remove';
@@ -245,7 +242,7 @@
             });
         }
 
-        // .mbr-section--16by9 (16 by 9 blocks autoheight)
+        
 
         function calculate16by9(el) {
             el.style.height = getWidth(el.parentNode) * 9 / 16 + 'px';
@@ -346,7 +343,7 @@
             });
         }
 
-        // .mbr-fixed-top
+        
 
         var fixedTopTimeout, scrollTimeout, prevScrollTop = 0,
             fixedTop = null,
@@ -768,7 +765,7 @@
                 if (imgH && imgW) {
                     var aspectRatio = imgH / imgW;
 
-                    // needs check (in jQ version supposedly should be .css() instead of .addClass())
+                    
                     el.style.position = 'absolute';
                     el.style.top = '0';
                     el.style.left = '0';
@@ -1399,7 +1396,7 @@
                     $(this).styler();
                     $(this).parent().parent().removeClass('form-control')
                 });
-                // documentation about plugin https://xdsoft.net/jqplugins/datetimepicker/
+                
                 $(form).find('input[type=date]').each(function () {
                     if ($(this).datetimepicker)
                         $(this).datetimepicker({
@@ -1623,7 +1620,7 @@
                     window.addEventListener("scroll", () => (lerpData.target += speed * 1.5));
                 };
 
-                // tracking data-attribute changes to update the animation in the mbr
+                
                 const observer = new MutationObserver(() => {
                     document.querySelectorAll(".loop-container").forEach(el => {
                         el.style.transform = ""; // Reset the current animation
