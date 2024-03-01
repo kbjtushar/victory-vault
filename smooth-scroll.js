@@ -1,17 +1,4 @@
-//
-// SmoothScroll for websites v1.4.10 (Balazs Galambosi)
-// http://www.smoothscroll.net/
-//
-// Licensed under the terms of the MIT license.
-//
-// You may use it in your theme if you credit me. 
-// It is also free to use on any individual website.
-//
-// Exception:
-// The only restriction is to not publish any  
-// extension for browsers or native application
-// without getting a written permission first.
-//
+
 
 (function () {
   
@@ -62,22 +49,14 @@ var key = { left: 37, up: 38, right: 39, down: 40, spacebar: 32,
             pageup: 33, pagedown: 34, end: 35, home: 36 };
 var arrowKeys = { 37: 1, 38: 1, 39: 1, 40: 1 };
 
-/***********************************************
- * INITIALIZE
- ***********************************************/
 
-/**
- * Tests if smooth scrolling is allowed. Shuts down everything if not.
- */
 function initTest() {
     if (options.keyboardSupport) {
         addEvent('keydown', keydown);
     }
 }
 
-/**
- * Sets up scrolls array, determines if frames are involved.
- */
+
 function init() {
   
     if (initDone || !document.body) return;
@@ -100,12 +79,7 @@ function init() {
         isFrame = true;
     }
 
-    /**
-     * Safari 10 fixed it, Chrome fixed it in v45:
-     * This fixes a bug where the areas left and right to 
-     * the content does not trigger the onmousewheel event
-     * on some pages. e.g.: html, body { height: 100% }
-     */
+    
     else if (isOldSafari &&
              scrollHeight > windowHeight &&
             (body.offsetHeight <= windowHeight || 
@@ -294,14 +268,7 @@ function scrollArray(elem, left, top) {
 }
 
 
-/***********************************************
- * EVENTS
- ***********************************************/
 
-/**
- * Mouse wheel handler.
- * @param {Object} event
- */
 function wheel(event) {
 
     if (!initDone) {
@@ -490,9 +457,7 @@ function mousedown(event) {
 }
 
 
-/***********************************************
- * OVERFLOW
- ***********************************************/
+
 
 var uniqueID = (function () {
     var i = 0;
@@ -611,7 +576,7 @@ function directionCheck(x, y) {
 }
 
 if (window.localStorage && localStorage.SS_deltaBuffer) {
-    try { // #46 Safari throws in private browsing for localStorage 
+    try {  
         deltaBuffer = localStorage.SS_deltaBuffer.split(',');
     } catch (e) { } 
 }
@@ -626,7 +591,7 @@ function isTouchpad(deltaY) {
     deltaBuffer.shift();
     clearTimeout(deltaBufferTimer);
     deltaBufferTimer = setTimeout(function () {
-        try { // #46 Safari throws in private browsing for localStorage
+        try { 
             localStorage.SS_deltaBuffer = deltaBuffer.join(',');
         } catch (e) { }  
     }, 1000);
@@ -694,16 +659,7 @@ var getScrollRoot = (function() {
 })();
 
 
-/***********************************************
- * PULSE (by Michael Herf)
- ***********************************************/
- 
-/**
- * Viscous fluid with a pulse for part and decay for the rest.
- * - Applies a fixed force over an interval (a damped acceleration), and
- * - Lets the exponential bleed away the velocity over a longer interval
- * - Michael Herf, http://stereopsis.com/stopping/
- */
+
 function pulse_(x) {
     var val, start, expx;
     // test
@@ -737,7 +693,7 @@ function pulse(x) {
  ***********************************************/
 
 var userAgent = window.navigator.userAgent;
-var isEdge    = /Edge/.test(userAgent); // thank you MS
+var isEdge    = /Edge/.test(userAgent); 
 var isChrome  = /chrome/i.test(userAgent) && !isEdge; 
 var isSafari  = /safari/i.test(userAgent) && !isEdge; 
 var isMobile  = /mobile/i.test(userAgent);
@@ -764,9 +720,7 @@ if (wheelEvent && isEnabledForBrowser) {
 }
 
 
-/***********************************************
- * PUBLIC INTERFACE
- ***********************************************/
+
 
 function SmoothScroll(optionsToSet) {
     for (var key in optionsToSet)
@@ -775,7 +729,7 @@ function SmoothScroll(optionsToSet) {
 }
 SmoothScroll.destroy = cleanup;
 
-if (window.SmoothScrollOptions) // async API
+if (window.SmoothScrollOptions) 
     SmoothScroll(window.SmoothScrollOptions);
 
 if (typeof define === 'function' && define.amd)
