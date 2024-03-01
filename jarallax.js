@@ -1,112 +1,72 @@
-/*!
- * Name    : Just Another Parallax [Jarallax]
- * Version : 1.12.7
- * Author  : nK <https://nkdev.info>
- * GitHub  : https://github.com/nk-o/jarallax
- */
+
 /******/ (function(modules) { // webpackBootstrap
-/******/ 	// The module cache
+
 /******/ 	var installedModules = {};
-/******/
-/******/ 	// The require function
+
 /******/ 	function __webpack_require__(moduleId) {
-/******/
-/******/ 		// Check if module is in cache
-/******/ 		if(installedModules[moduleId]) {
-/******/ 			return installedModules[moduleId].exports;
-/******/ 		}
-/******/ 		// Create a new module (and put it into the cache)
-/******/ 		var module = installedModules[moduleId] = {
-/******/ 			i: moduleId,
-/******/ 			l: false,
-/******/ 			exports: {}
-/******/ 		};
-/******/
-/******/ 		// Execute the module function
-/******/ 		modules[moduleId].call(module.exports, module, module.exports, __webpack_require__);
-/******/
-/******/ 		// Flag the module as loaded
-/******/ 		module.l = true;
-/******/
-/******/ 		// Return the exports of the module
-/******/ 		return module.exports;
-/******/ 	}
-/******/
-/******/
-/******/ 	// expose the modules object (__webpack_modules__)
-/******/ 	__webpack_require__.m = modules;
-/******/
-/******/ 	// expose the module cache
-/******/ 	__webpack_require__.c = installedModules;
-/******/
-/******/ 	// define getter function for harmony exports
-/******/ 	__webpack_require__.d = function(exports, name, getter) {
-/******/ 		if(!__webpack_require__.o(exports, name)) {
-/******/ 			Object.defineProperty(exports, name, { enumerable: true, get: getter });
-/******/ 		}
-/******/ 	};
-/******/
-/******/ 	// define __esModule on exports
-/******/ 	__webpack_require__.r = function(exports) {
-/******/ 		if(typeof Symbol !== 'undefined' && Symbol.toStringTag) {
-/******/ 			Object.defineProperty(exports, Symbol.toStringTag, { value: 'Module' });
-/******/ 		}
-/******/ 		Object.defineProperty(exports, '__esModule', { value: true });
-/******/ 	};
-/******/
-/******/ 	// create a fake namespace object
-/******/ 	// mode & 1: value is a module id, require it
-/******/ 	// mode & 2: merge all properties of value into the ns
-/******/ 	// mode & 4: return value when already ns object
-/******/ 	// mode & 8|1: behave like require
-/******/ 	__webpack_require__.t = function(value, mode) {
-/******/ 		if(mode & 1) value = __webpack_require__(value);
-/******/ 		if(mode & 8) return value;
-/******/ 		if((mode & 4) && typeof value === 'object' && value && value.__esModule) return value;
-/******/ 		var ns = Object.create(null);
-/******/ 		__webpack_require__.r(ns);
-/******/ 		Object.defineProperty(ns, 'default', { enumerable: true, value: value });
-/******/ 		if(mode & 2 && typeof value != 'string') for(var key in value) __webpack_require__.d(ns, key, function(key) { return value[key]; }.bind(null, key));
-/******/ 		return ns;
-/******/ 	};
-/******/
-/******/ 	// getDefaultExport function for compatibility with non-harmony modules
-/******/ 	__webpack_require__.n = function(module) {
-/******/ 		var getter = module && module.__esModule ?
-/******/ 			function getDefault() { return module['default']; } :
-/******/ 			function getModuleExports() { return module; };
-/******/ 		__webpack_require__.d(getter, 'a', getter);
-/******/ 		return getter;
-/******/ 	};
-/******/
-/******/ 	// Object.prototype.hasOwnProperty.call
-/******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
-/******/
-/******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "";
-/******/
-/******/
-/******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 10);
-/******/ })
-/************************************************************************/
-/******/ ([
-/* 0 */,
-/* 1 */,
-/* 2 */
-/***/ (function(module, exports) {
+ 		if(installedModules[moduleId]) {
+ 			return installedModules[moduleId].exports;
+ 		}
+ 		var module = installedModules[moduleId] = {
+ 			i: moduleId,
+ 			l: false,
+ 			exports: {}
+ 		};
+ 		modules[moduleId].call(module.exports, module, module.exports, __webpack_require__);
+ 		module.l = true;
+ 		return module.exports;
+ 	}
+ 	__webpack_require__.m = modules;
+ 	__webpack_require__.c = installedModules;
+ 	__webpack_require__.d = function(exports, name, getter) {
+ 		if(!__webpack_require__.o(exports, name)) {
+ 			Object.defineProperty(exports, name, { enumerable: true, get: getter });
+ 		}
+ 	};
+ 	__webpack_require__.r = function(exports) {
+ 		if(typeof Symbol !== 'undefined' && Symbol.toStringTag) {
+ 			Object.defineProperty(exports, Symbol.toStringTag, { value: 'Module' });
+ 		}
+ 		Object.defineProperty(exports, '__esModule', { value: true });
+ 	};
+
+ 	__webpack_require__.t = function(value, mode) {
+ 		if(mode & 1) value = __webpack_require__(value);
+ 		if(mode & 8) return value;
+ 		if((mode & 4) && typeof value === 'object' && value && value.__esModule) return value;
+ 		var ns = Object.create(null);
+ 		__webpack_require__.r(ns);
+ 		Object.defineProperty(ns, 'default', { enumerable: true, value: value });
+ 		if(mode & 2 && typeof value != 'string') for(var key in value) __webpack_require__.d(ns, key, function(key) { return value[key]; }.bind(null, key));
+ 		return ns;
+ 	};
+ 	__webpack_require__.n = function(module) {
+ 		var getter = module && module.__esModule ?
+ 			function getDefault() { return module['default']; } :
+ 			function getModuleExports() { return module; };
+ 		__webpack_require__.d(getter, 'a', getter);
+ 		return getter;
+ 	};
+ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
+ 	__webpack_require__.p = "";
+ 	return __webpack_require__(__webpack_require__.s = 10);
+ })
+ ([
+,
+,
+ (function(module, exports) {
 
 module.exports = function (callback) {
   if (document.readyState === 'complete' || document.readyState === 'interactive') {
-    // Already ready or interactive, execute callback
+    
     callback.call();
   } else if (document.attachEvent) {
-    // Old browsers
+    
     document.attachEvent('onreadystatechange', function () {
       if (document.readyState === 'interactive') callback.call();
     });
   } else if (document.addEventListener) {
-    // Modern browsers
+    
     document.addEventListener('DOMContentLoaded', callback);
   }
 };
@@ -115,7 +75,7 @@ module.exports = function (callback) {
 /* 3 */
 /***/ (function(module, exports, __webpack_require__) {
 
-/* WEBPACK VAR INJECTION */(function(global) {var win;
+(function(global) {var win;
 
 if (typeof window !== "undefined") {
   win = window;
@@ -355,7 +315,7 @@ function updateParallax() {
   global__WEBPACK_IMPORTED_MODULE_1__["window"].requestAnimationFrame(updateParallax);
 }
 
-var instanceID = 0; // Jarallax class
+var instanceID = 0; 
 
 var Jarallax = /*#__PURE__*/function () {
   function Jarallax(item, userOptions) {
@@ -458,7 +418,7 @@ var Jarallax = /*#__PURE__*/function () {
       self.options.disableVideo = function () {
         return false;
       };
-    } // custom element to check if parallax in viewport
+    } 
 
 
     var elementInVP = self.options.elementInViewport; // get first item from array
@@ -648,7 +608,7 @@ var Jarallax = /*#__PURE__*/function () {
       self.css(self.image.$container, containerStyles);
       self.css(self.image.$container, {
         'z-index': self.options.zIndex
-      }); // fix for IE https://github.com/nk-o/jarallax/issues/110
+      }); 
 
       if (isIE) {
         self.css(self.image.$container, {
@@ -663,7 +623,7 @@ var Jarallax = /*#__PURE__*/function () {
         imageStyles = self.extend({
           'object-fit': self.options.imgSize,
           'object-position': self.options.imgPosition,
-          // support for plugin https://github.com/bfred-it/object-fit-images
+          
           'font-family': "object-fit: ".concat(self.options.imgSize, "; object-position: ").concat(self.options.imgPosition, ";"),
           'max-width': 'none'
         }, containerStyles, imageStyles); // use div with background image
@@ -682,9 +642,7 @@ var Jarallax = /*#__PURE__*/function () {
 
       if ('opacity' === self.options.type || 'scale' === self.options.type || 'scale-opacity' === self.options.type || 1 === self.options.speed) {
         self.image.position = 'absolute';
-      } // 1. Check if one of parents have transform style (without this check, scroll transform will be inverted if used parallax with position fixed)
-      //    discussion - https://github.com/nk-o/jarallax/issues/9
-      // 2. Check if parents have overflow scroll
+      } 
 
 
       if ('fixed' === self.image.position) {
@@ -812,8 +770,7 @@ var Jarallax = /*#__PURE__*/function () {
         self.$clipStyles.setAttribute('id', "jarallax-clip-".concat(self.instanceID));
         var head = document.head || document.getElementsByTagName('head')[0];
         head.appendChild(self.$clipStyles);
-      } // clip is used for old browsers.
-      // clip-path for modern browsers (also fixes Safari v14 bug https://github.com/nk-o/jarallax/issues/181 ).
+      } 
 
 
       var styles = "#jarallax-container-".concat(self.instanceID, " {\n            clip: rect(0 ").concat(width, "px ").concat(height, "px 0);\n            clip: rect(0, ").concat(width, "px, ").concat(height, "px, 0);\n            -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);\n            clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);\n        }"); // add clip styles inline (this method need for support IE8 and less browsers)
@@ -994,8 +951,7 @@ var Jarallax = /*#__PURE__*/function () {
 
 
 var plugin = function plugin(items, options) {
-  // check for dom element
-  // thanks: http://stackoverflow.com/questions/384286/javascript-isdom-how-do-you-check-if-a-javascript-object-is-a-dom-object
+  
   if ('object' === (typeof HTMLElement === "undefined" ? "undefined" : _typeof(HTMLElement)) ? items instanceof HTMLElement : items && 'object' === _typeof(items) && null !== items && 1 === items.nodeType && 'string' === typeof items.nodeName) {
     items = [items];
   }
@@ -1027,7 +983,7 @@ var plugin = function plugin(items, options) {
 };
 
 plugin.constructor = Jarallax;
-/* harmony default export */ __webpack_exports__["default"] = (plugin);
+ __webpack_exports__["default"] = (plugin);
 
-/***/ })
-/******/ ]);
+ })
+ ]);
