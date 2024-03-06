@@ -3,7 +3,7 @@ Discover our commitment to nurturing a love for indoor sports and building a sup
 
 # Project Details
 1. Project Demo URL: https://victoryvault.z13.web.core.windows.net/
-2. Demo Video URL: https://www.youtube.com/watch?v=duFw2sVCuuY
+2. Demo Video URL: https://www.youtube.com/watch?v=duFw2sVCuuY&t=125s
 3. GitHub Repository URL: https://github.com/kbjtushar/victory-vault
 4. Industry: Sports
 # Roles and responsibilities
