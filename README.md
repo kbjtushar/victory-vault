@@ -2,8 +2,8 @@
 Discover our commitment to nurturing a love for indoor sports and building a supportive community of dedicated athletes. Through expert guidance and state-of-the-art facilities, we empower individuals to excel and reach their athletic aspirations. Join us on the journey to unlock your full potential in indoor sports.
 
 # Project Details
-1. Project Demo URL: https://electrostorage2.z13.web.core.windows.net/
-2. Demo Video URL: https://youtu.be/8ErNjxboKGo
+1. Project Demo URL: https://victoryvault.z13.web.core.windows.net/
+2. Demo Video URL: https://www.youtube.com/watch?v=duFw2sVCuuY
 3. GitHub Repository URL: https://github.com/kbjtushar/victory-vault
 4. Industry: Sports
 # Roles and responsibilities
