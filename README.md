@@ -19,7 +19,7 @@ Discover our commitment to nurturing a love for indoor sports and building a sup
 5. chatbot
 6. Azure Role Based access Control(RBAC)
 # Problem Statement:
-Many individuals, particularly in urban areas, lack access to high-quality sports facilities and comprehensive training programs for indoor sports. This leads to a lack of opportunities for athletes of all ages and skill level to develop their talent.
+Many individuals particularly in urban areas, lack access to high-quality sports facilities and comprehensive training programs for indoor sports. This leads to a lack of opportunities for athletes of all ages and skill level to develop their talent.
 The project aims to address a significant problem in Indoor regarding the limited availability of infrastructure and opportunities for indoor games. Currently, the city lacks dedicated facilities and programs tailored specifically for indoor sports, leaving enthusiasts with few options for pursuing their interests or honing their skills in activities such as badminton, table tennis, basketball, and volleyball, among others. This scarcity not only impedes the development of aspiring athletes but also deprives the broader community of the numerous benefits associated with indoor sports, including physical fitness, social interaction, and mental well-being.
 
 # Project Description:
