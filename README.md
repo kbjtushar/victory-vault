@@ -35,7 +35,8 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 
 # Screenshot’s:
 # Storage Account
-![Screenshot (18)](https://github.com/kbjtushar/victory-vault/assets/161709189/02d929b9-bdf8-4a55-802f-392872f5c87a)
+![Screenshot (19)](https://github.com/kbjtushar/victory-vault/assets/161709189/77bafc8e-b338-4235-9c3a-46bf5b7b8ecb)
+
 
 # Static website
 ![Screenshot (20)](https://github.com/kbjtushar/victory-vault/assets/161709189/0114026f-951d-4957-b4d2-96f5539f65bc)
@@ -43,8 +44,33 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 # Container
 ![Screenshot (18)](https://github.com/kbjtushar/victory-vault/assets/161709189/dfe87a67-0e74-4738-9022-15f77dee674e)
 
+# Backup vault
+![Screenshot (10)](https://github.com/kbjtushar/victory-vault/assets/161709189/baee1e37-a111-4f02-ac99-7a5961511edb)
 
+# Backup policy
+![Screenshot (21)](https://github.com/kbjtushar/victory-vault/assets/161709189/ff867f15-debd-4a75-a7c2-729d9fb7d957)
 
+# Azure Bot
+![Screenshot (22)](https://github.com/kbjtushar/victory-vault/assets/161709189/69e3db61-7585-481f-bcf7-5854d1b3db1c)
 
-Final Project Statement:
+# Test in web chat
+![Screenshot (16)](https://github.com/kbjtushar/victory-vault/assets/161709189/fc589682-8948-4a82-bc95-8089915368eb)
 
+# Description
+Here I am attaching the final working website's screenshot for the reference.
+
+# Working Live Project Display:
+# Home page
+![Screenshot (17)](https://github.com/kbjtushar/victory-vault/assets/161709189/131b043e-9317-42da-9277-45517da8a298)
+
+# History
+![Screenshot (23)](https://github.com/kbjtushar/victory-vault/assets/161709189/6e97dd6e-f009-4aa9-9dbb-f870b368c678)
+
+# facilities page
+![Screenshot (24)](https://github.com/kbjtushar/victory-vault/assets/161709189/72f6c39a-1482-4c79-aa02-14beefdeb86c)
+
+# Sports page
+![Screenshot (25)](https://github.com/kbjtushar/victory-vault/assets/161709189/d2e93f26-3cf1-4fe1-a956-075caef6b2f7)
+
+# Final Project Statement:
+Inspiring athletes to reach their full potential through state-of-the-art facilities, expert coaching, and comprehensive training programs. Join us to unlock your athletic excellence and become part of our thriving sports community.
