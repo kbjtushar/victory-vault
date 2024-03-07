@@ -35,7 +35,16 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 
 # Screenshot’s:
 # Storage Account
-**C:\Users\Sai\Pictures\Screenshots**
+![Screenshot (18)](https://github.com/kbjtushar/victory-vault/assets/161709189/02d929b9-bdf8-4a55-802f-392872f5c87a)
+
+# Static website
+![Screenshot (20)](https://github.com/kbjtushar/victory-vault/assets/161709189/0114026f-951d-4957-b4d2-96f5539f65bc)
+
+# Container
+![Screenshot (18)](https://github.com/kbjtushar/victory-vault/assets/161709189/dfe87a67-0e74-4738-9022-15f77dee674e)
+
+
+
 
 Final Project Statement:
 
