@@ -5,7 +5,7 @@ Discover our commitment to nurturing a love for indoor sports and building a sup
 1. Project Demo URL: https://victoryvault.z13.web.core.windows.net/
 2. Demo Video URL: https://www.youtube.com/watch?v=duFw2sVCuuY&t=125s
 3. GitHub Repository URL: https://github.com/kbjtushar/victory-vault
-4. Industry: Sports
+4. Industry: lifestyle - sports
 # Roles and responsibilities
 1. Tushar Ray (project management) :Manages the web development project.
 2. Shreya Chittimalla (Deployment) :Deployment and maintenance of project infrastructure.
