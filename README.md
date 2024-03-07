@@ -72,5 +72,9 @@ Here I am attaching the final working website's screenshot for the reference.
 # Sports page
 ![Screenshot (25)](https://github.com/kbjtushar/victory-vault/assets/161709189/d2e93f26-3cf1-4fe1-a956-075caef6b2f7)
 
+# Contact page
+![Screenshot (26)](https://github.com/kbjtushar/victory-vault/assets/161709189/f7687825-48d9-4658-a24f-65b07c57125e)
+
+
 # Final Project Statement:
 Inspiring athletes to reach their full potential through state-of-the-art facilities, expert coaching, and comprehensive training programs. Join us to unlock your athletic excellence and become part of our thriving sports community.
