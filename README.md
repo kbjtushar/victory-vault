@@ -1,4 +1,4 @@
-# victory-vault
+![Screenshot (28)](https://github.com/kbjtushar/victory-vault/assets/161709189/9bcdca18-f859-4efc-a9eb-3886e667b54b)# victory-vault
 Discover our commitment to nurturing a love for indoor sports and building a supportive community of dedicated athletes. Through expert guidance and state-of-the-art facilities, we empower individuals to excel and reach their athletic aspirations. Join us on the journey to unlock your full potential in indoor sports.
 
 # Project Details
@@ -57,6 +57,10 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 
 # Test in web chat
 ![Screenshot (27)](https://github.com/kbjtushar/victory-vault/assets/161484157/2c923077-6c10-47e3-8ea4-0d82a976c4a2)
+
+# Resource visualizer
+![Screenshot (28)](https://github.com/kbjtushar/victory-vault/assets/161709189/3dadfb06-c474-4041-89dc-1ea58bbe1a3f)
+
 
 # Description
 Here I am attaching the final working website's screenshot for the reference.
