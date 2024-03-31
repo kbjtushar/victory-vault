@@ -48,6 +48,9 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 # Backup vault
 ![backup vault](https://github.com/kbjtushar/victory-vault/assets/161484157/e56b7a6e-cf95-486a-a5aa-3c026f4180ad)
 
+# Role assignment
+![role assignment](https://github.com/kbjtushar/victory-vault/assets/161484157/c54ab63f-4312-4da5-b539-6238efd5e78e)
+
 # Backup policy
 ![backup policy](https://github.com/kbjtushar/victory-vault/assets/161484157/68ec0412-5147-4a88-8b5d-20a31b409d5a)
 
