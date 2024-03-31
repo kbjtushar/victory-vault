@@ -37,50 +37,47 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 
 # Screenshot’s:
 # Storage Account
-![Screenshot (19)](https://github.com/kbjtushar/victory-vault/assets/161709189/77bafc8e-b338-4235-9c3a-46bf5b7b8ecb)
-
+![storage account](https://github.com/kbjtushar/victory-vault/assets/161484157/721ce368-18ed-40f7-b87e-4e3934f644ec)
 
 # Static website
-![Screenshot (20)](https://github.com/kbjtushar/victory-vault/assets/161709189/0114026f-951d-4957-b4d2-96f5539f65bc)
+![static website](https://github.com/kbjtushar/victory-vault/assets/161484157/08f69078-1167-463f-8f20-dcefd5085e33)
 
 # Container
-![Screenshot (18)](https://github.com/kbjtushar/victory-vault/assets/161709189/dfe87a67-0e74-4738-9022-15f77dee674e)
+![container](https://github.com/kbjtushar/victory-vault/assets/161484157/19f2d0fd-5644-4d1f-a0b1-89d29e8d3d50)
 
 # Backup vault
-![Screenshot (10)](https://github.com/kbjtushar/victory-vault/assets/161709189/baee1e37-a111-4f02-ac99-7a5961511edb)
+![backup vault](https://github.com/kbjtushar/victory-vault/assets/161484157/e56b7a6e-cf95-486a-a5aa-3c026f4180ad)
 
 # Backup policy
-![Screenshot (21)](https://github.com/kbjtushar/victory-vault/assets/161709189/ff867f15-debd-4a75-a7c2-729d9fb7d957)
+![backup policy](https://github.com/kbjtushar/victory-vault/assets/161484157/68ec0412-5147-4a88-8b5d-20a31b409d5a)
 
 # Azure Bot
-![Screenshot (22)](https://github.com/kbjtushar/victory-vault/assets/161709189/69e3db61-7585-481f-bcf7-5854d1b3db1c)
+![azure bot](https://github.com/kbjtushar/victory-vault/assets/161484157/47d6968c-91cd-4e87-b523-2dc2e430e69d)
 
 # Test in web chat
-![Screenshot (27)](https://github.com/kbjtushar/victory-vault/assets/161484157/2c923077-6c10-47e3-8ea4-0d82a976c4a2)
+![test in webchat](https://github.com/kbjtushar/victory-vault/assets/161484157/9219a2df-5b27-426a-9fdb-4cad13cc2be6)
 
 # Resource visualizer
-![Screenshot (28)](https://github.com/kbjtushar/victory-vault/assets/161709189/3dadfb06-c474-4041-89dc-1ea58bbe1a3f)
-
+![resource visualizer](https://github.com/kbjtushar/victory-vault/assets/161484157/9ae82a6f-3e6e-4a8c-945e-0a6bc8ef47ed)
 
 # Description
 Here I am attaching the final working website's screenshot for the reference.
 
 # Working Live Project Display:
 # Home page
-![Screenshot (17)](https://github.com/kbjtushar/victory-vault/assets/161709189/131b043e-9317-42da-9277-45517da8a298)
+![home](https://github.com/kbjtushar/victory-vault/assets/161484157/f8fc6c8a-5392-4c4c-b8af-3a07a631f7af)
 
 # History
-![Screenshot (23)](https://github.com/kbjtushar/victory-vault/assets/161709189/6e97dd6e-f009-4aa9-9dbb-f870b368c678)
+![history](https://github.com/kbjtushar/victory-vault/assets/161484157/91758bdf-8954-48c7-9f38-d15d1345a117)
 
 # facilities page
-![Screenshot (24)](https://github.com/kbjtushar/victory-vault/assets/161709189/72f6c39a-1482-4c79-aa02-14beefdeb86c)
+![facilities page](https://github.com/kbjtushar/victory-vault/assets/161484157/23f633c8-bb4d-4006-b356-a78d96ca7bb7)
 
 # Sports page
-![Screenshot (25)](https://github.com/kbjtushar/victory-vault/assets/161709189/d2e93f26-3cf1-4fe1-a956-075caef6b2f7)
+![sports page](https://github.com/kbjtushar/victory-vault/assets/161484157/edc7c16d-27eb-463b-a212-779fd165d9aa)
 
 # Contact page
-![Screenshot (26)](https://github.com/kbjtushar/victory-vault/assets/161709189/f7687825-48d9-4658-a24f-65b07c57125e)
-
+![contact page](https://github.com/kbjtushar/victory-vault/assets/161484157/3ae8ede2-15e0-43d2-a1de-8235b50dcf6a)
 
 # Final Project Statement:
 Inspiring athletes to reach their full potential through state-of-the-art facilities, expert coaching, and comprehensive training programs. Join us to unlock your athletic excellence and become part of our thriving sports community.
