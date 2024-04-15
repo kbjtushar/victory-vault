@@ -46,7 +46,7 @@
         return i;
     }
 
-    // fadeIn and fadeOut functions from https://only-to-top.ru/blog/coding/2019-09-24-jquery-to-js.html
+
     function fadeOut(el) {
         (function fade() {
             if ((el.style.opacity -= .1) < 0) {
@@ -68,7 +68,7 @@
         })();
     };
 
-    // get parents function from https://gist.github.com/ziggi/2f15832b57398649ee9b
+
     Element.prototype.parents = function(selector) {
         var elements = [];
         var elem = this;
@@ -118,8 +118,8 @@
 
 
     (function (sr) {
-        // debouncing function from John Hann
-        // http://unscriptable.com/index.php/2009/03/20/debouncing-javascript-methods/
+
+
         var debounce = function (func, threshold, execAsap) {
             var timeout;
 
@@ -140,7 +140,7 @@
         };
         // smartresize
         window[sr] = function (fn) {
-            var ev = new CustomEvent(sr);
+           var ev = new CustomEvent(sr);
             return fn ? this.addEventListener('resize', debounce(fn)) : this.dispatchEvent(ev);
         };
 
@@ -208,9 +208,9 @@
     ready(function () {
         document.querySelector('html').classList.add(isMobile() ? 'mobile' : 'desktop');
 
-        // .mbr-navbar--sticky
 
-        // needs some check
+
+
         window.addEventListener('scroll', function() {
             document.querySelectorAll('.mbr-navbar--sticky').forEach(function(el) {
                 var method = window.scrollTop > 10 ? 'add' : 'remove';
@@ -245,7 +245,7 @@
             });
         }
 
-        // .mbr-section--16by9 (16 by 9 blocks autoheight)
+
 
         function calculate16by9(el) {
             el.style.height = getWidth(el.parentNode) * 9 / 16 + 'px';
@@ -270,9 +270,9 @@
         });
 
 
-        // .mbr-parallax-background
 
-        // plugin needs replacement: Parallax
+
+
 
         function initParallax(card) {
             setTimeout(function () {
@@ -452,7 +452,7 @@
                     player.setSize(vid.width, vid.height);
                 };
 
-                // youtube or vimeo
+                // youtube or video
                 if (parsedUrl && (/youtu\.?be/g.test(parsedUrl[3]) || /vimeo/g.test(parsedUrl[3]))) {
                     // youtube
                     if (parsedUrl && /youtu\.?be/g.test(parsedUrl[3])) {
@@ -1692,7 +1692,6 @@
         var e = document.createElement("section");
         e.id = "top-1";
         e.style = "display: none";
-        e.innerHTML = '<a href="https://ai.mobirise.com/">Mobirise AI Website Builder</a> Mobirise AI Alpha v0.01 <a href="https://mobirise.com/builder/ai-website-builder.html">AI Website Builder</a>';
         document.body.insertBefore(e, document.body.childNodes[0]);
     }
 }());
