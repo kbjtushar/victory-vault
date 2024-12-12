@@ -1,16 +1,16 @@
-# victory-vault
-Discover our commitment to nurturing a love for indoor sports and building a supportive community of dedicated athletes. Through expert guidance and state-of-the-art facilities, we empower individuals to excel and reach their athletic aspirations. Join us on the journey to unlock your full potential in indoor sports.
+# Yes Organic Store 
+The Title of our project is organic framing. This website provides the information about various organic vegetables, fruits and snacks. Organic farming e-commerce is like shopping online, but specifically for organic, or natural, products. Imagine browsing a website or using an app to find fruits, vegetables, and other foods that are grown without chemicals. These platforms make it easy to buy these healthy products from farmers and sellers who care about the environment.
 
 # Project Details
-1. Project Demo URL: https://mystoragevault.z13.web.core.windows.net/
-2. Demo Video URL: https://www.youtube.com/watch?v=duFw2sVCuuY&t=125s
+1. Project Demo URL: https://yesorganicstorage.z13.web.core.windows.net/index.html
+2. Demo Video URL: https://www.youtube.com/watch?v=yPPg7Pq4oP0&ab_channel=Tirumala
 3. GitHub Repository URL: https://github.com/kbjtushar/victory-vault
-4. Industry: lifestyle - sports
+4. Industry: Food - Yes Organic Store
 # Roles and responsibilities
-1. Tushar Ray (project management) :Manages the web development project.
-2. Shreya Chittimalla (Deployment) :Deployment and maintenance of project infrastructure.
-3. Anupama Kunnil (Images, logos and chat bot questions) :Responsible for image searching, logo creation and chat bot questions
-4. Nikhil (Documentation) :Responsible for managing the documentation process.
+1. Tirumala Yandrapalli (project management) :Manages the web development project.
+2. RajGanesh Rudra (Deployment) :Deployment and maintenance of project infrastructure.
+3. Aravind Swami (Images, logos and chat bot questions) :Responsible for image searching, logo creation and chat bot questions
+4. Sandhya Battu (Documentation) :Responsible for managing the documentation process.
 # Azure services used:
 1. Azure blob storage
 2. Storage account
@@ -19,15 +19,16 @@ Discover our commitment to nurturing a love for indoor sports and building a sup
 5. chatbot
 6. Azure Role Based access Control(RBAC)
 # Problem Statement:
-Many individuals particularly in urban areas, lack access to high-quality sports facilities and comprehensive training programs for indoor sports. This leads to a lack of opportunities for athletes of all ages and skill level to develop their talent.
-The project aims to address a significant problem in Indoor regarding the limited availability of infrastructure and opportunities for indoor games. Currently, the city lacks dedicated facilities and programs tailored specifically for indoor sports, leaving enthusiasts with few options for pursuing their interests or honing their skills in activities such as badminton, table tennis, basketball, and volleyball, among others. This scarcity not only impedes the development of aspiring athletes but also deprives the broader community of the numerous benefits associated with indoor sports, including physical fitness, social interaction, and mental well-being.
+Access to organic food is often limited, and small farmers face challenges reaching a broader market. Traditional methods of purchasing organic products may not be convenient or accessible for everyone, while small-scale farmers struggle to compete with larger agricultural businesses. However, online platforms present an opportunity to bridge this gap by connecting farmers directly to consumers, making organic food more accessible and supporting small-scale producers. These platforms can also educate consumers about the benefits of organic farming, fostering greater awareness and support for sustainable agricultural practices. By leveraging technology and online connectivity, stakeholders can work towards creating a more inclusive and sustainable food system that benefits both producers and consumers alike.
 
 # Project Description:
-Victory Vault Indoor Sports Academy is a facility designed for training and developing athletes in various sports within an enclosed environment. It provides coaching, practice facilities, and equipments for sports like basketball, fencing, swimming and more. The academy aims to enhance skills, fitness and teamwork in a controlled and weather-independent setting.
-The core idea of an indoor sports academy revolves around addressing a key problem statement or opportunity area in the community.
-We aim to fill the gap in the community and provide a solution to this problem. Our academy will offer expert coaching and comprehensive training programs for a variety of indoor sports catering to athletes of all ages, backgrounds and skill levels.
-The indoor sports academy addresses a clear and pressing need within the community the lack of accessible and high-quality training for indoor sports. This problem is evident in the limited availability of proper facilities, the scarcity of the expert coaching and the absence of comprehensive training programs tailored to athlete’s needs.
-The indoor sports academy’s basic purpose and functionality are directly mapped to the problem statement or the opportunity area it aims to address. The core purpose of the academy is to provide accessible and high-quality training facilities for athletes, which aligns with the identified problem statement or opportunity area of the lack of such facilities in the community.
+The Title of our project is organic framing. This website provides the information about various organic vegetables, fruits and snacks. Organic farming e-commerce is like shopping online, but specifically for organic, or natural, products. Imagine browsing a website or using an app to find fruits, vegetables, and other foods that are grown without chemicals. These platforms make it easy to buy these healthy products from farmers and sellers who care about the environment.
+
+These online shops are great because they let you learn about where your food comes from. You can read about each product and see if it has special labels that show it's truly organic. It's like having a virtual farmer's market at your fingertips, with all the information you need to make good choices about what you eat.
+What's cool is that organic farming e-commerce helps both farmers and shoppers. Farmers get a chance to sell their produce directly to people who want it, without having to rely on big stores. This means they can earn a fair price for their hard work. And for shoppers, it means getting fresh, healthy food delivered right to their homes.
+By supporting these online platforms, you're not only getting tasty organic food, but you're also supporting farmers who grow it in ways that are good for the Earth. Organic farming helps protect soil and water, and it's better for wildlife too. So, every time you buy organic, you're helping to take care of the planet.
+But organic farming e-commerce isn't just about buying stuff. It's also about learning and connecting with others who care about healthy eating and sustainability. These platforms often have articles and tips about organic living, and you can chat with other shoppers who share your interests. So, it's not just shopping – it's joining a community that wants to make the world a better, greener place.
+
 # Core Azure Services:
 Azure Blob Storage:- Azure Blob Storage is Microsoft's scalable object storage solution in the Azure cloud. It enables secure and cost-effective storage of unstructured data, such as documents and images. Offering seamless integration with applications, it supports data of any size and optimizes accessibility through a globally distributed network. 
 Azure Storage Account:- Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as redundancy options and access controls, it ensures reliable and efficient data management. 
